@@ -18,7 +18,7 @@ Follow these steps to get DodGet ML up and running on your machine:
 
 Download the Unity project from my drive
 
-https://drive.google.com/drive/folders/1cBlMHs3udwNHDwdwADXeCUDfW5jPO3m8?usp=drive_link
+https://drive.google.com/drive/folders/1cBlMHs3udwNHDwdwADXeCUDfW5jPO3m8?usp=sharing
 
 Open Unity and navigate to the project directory.
 
